@@ -1,1 +1,1 @@
-# odoo-hrms
+# OpenHRMS
